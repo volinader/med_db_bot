@@ -1,5 +1,10 @@
-# medicine_db_bot
+# mkb10_bot
 This bot for illnesses which has a code. We input code in tg_bot and get response from our database about additional info about sickness
+<br>How to install Docker you can find in google 
+<br>Repository where I found this database https://github.com/lensws/mkb10
+<br>Description:
+<br>МКБ-10 — Международная классификация болезней 10-го пересмотра. На январь 2007 года является общепринятой классификацией для кодирования медицинских диагнозов, разработана Всемирной организацией здравоохранения. МКБ-10 состоит из 21 класса (раздела), каждый из которых содержит рубрики с кодами заболеваний и состояний.
+
 For install:
 <br>1. `git clone git@github.com:volinader/med_db_bot.git`
 <br>2. Open medicine.py in edit mode and put your telegram API token
